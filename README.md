@@ -1,4 +1,4 @@
-# Proyecto: Validar Venta de Tickets - Taquilla de Los Vengadores
+# Validar Venta de Tickets - Taquilla de Los Vengadores
 
 ## Descripción
 
